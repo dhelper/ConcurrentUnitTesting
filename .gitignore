@@ -41,3 +41,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+SuprtServerTests/bin/Debug/FakeItEasy.dll
+SuprtServerTests/bin/Debug/FakeItEasy.xml
+SuprtServerTests/bin/Debug/SuperServer.dll
+SuprtServerTests/bin/Debug/SuperServer.pdb
+SuprtServerTests/bin/Debug/SuprtServerTests.dll
+SuprtServerTests/bin/Debug/SuprtServerTests.pdb
+SuprtServerTests/obj/Debug/SuprtServerTests.dll
+SuprtServerTests/obj/Debug/SuprtServerTests.pdb
+SuperServer/obj/Debug/SuperServer.dll
+SuperServer/obj/Debug/SuperServer.pdb
+SuperServer/obj/Debug/SuperServer.csproj.FileListAbsolute.txt
+SuperServer/bin/Debug/SuperServer.dll
+SuperServer/bin/Debug/SuperServer.pdb

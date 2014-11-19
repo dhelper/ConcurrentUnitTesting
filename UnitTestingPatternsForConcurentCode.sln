@@ -3,8 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Smells", "Smells", "{56E248A0-60F1-400D-911F-5827AFE0029F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperServer", "SuperServer\SuperServer.csproj", "{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuprtServerTests", "SuprtServerTests\SuprtServerTests.csproj", "{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75} = {56E248A0-60F1-400D-911F-5827AFE0029F}
+		{3CF72AC7-E00D-468B-B60C-ACED103EBEDB} = {56E248A0-60F1-400D-911F-5827AFE0029F}
 	EndGlobalSection
 EndGlobal

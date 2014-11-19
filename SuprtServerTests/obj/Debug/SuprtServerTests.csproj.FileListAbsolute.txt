@@ -1,0 +1,9 @@
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\SuprtServerTests.dll
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\SuprtServerTests.pdb
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\FakeItEasy.dll
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\SuperServer.dll
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\SuperServer.pdb
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\bin\Debug\FakeItEasy.xml
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.csprojResolveAssemblyReference.cache
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.dll
+C:\Users\drorh_000\Documents\GitHub\CuncurentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.pdb
