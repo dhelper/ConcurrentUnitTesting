@@ -15,29 +15,21 @@ namespace SuperServer
 
         public void Start()
         {
-            _worker = new Thread(RunMessageLoop);
-            _worker.Start();
-        }
-
-        public void Stop()
-        {
-            _isAlive = false;
-            _worker.Join();
-        }
-
-        private void RunMessageLoop()
-        {
-            do
+            _worker = new Thread(() =>
             {
-                Thread.Sleep(1000);
+                while (_isAlive)
+                {
+                    Thread.Sleep(1000);
 
-                var msg = _messageProvider.GetNextMessage();
+                    var msg = _messageProvider.GetNextMessage();
 
-                //Do stuff
+                    //Do stuff
 
-                LastMessage = msg;
+                    LastMessage = msg;
+                }
+            });
 
-            } while (_isAlive);
+            _worker.Start();
         }
 
         public string LastMessage { get; set; }
