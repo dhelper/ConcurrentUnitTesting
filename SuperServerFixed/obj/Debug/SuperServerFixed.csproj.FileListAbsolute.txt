@@ -1,0 +1,5 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\bin\Debug\SuperServerFixed.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\bin\Debug\SuperServerFixed.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.pdb

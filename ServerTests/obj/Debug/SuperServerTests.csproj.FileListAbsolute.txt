@@ -1,0 +1,9 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\ServerTests.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\ServerTests.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\FakeItEasy.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\SuperServerFixed.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\SuperServerFixed.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\FakeItEasy.xml
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\SuperServerTests.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.pdb

@@ -1,16 +1,16 @@
 ﻿using System.Threading;
 
-namespace SuperServer
+namespace SuperServerFixed
 {
     public class Server
     {
-        private readonly IMessageProvider _messageProvider;
         private Thread _worker;
         private bool _isAlive = true;
+        private readonly MessageHandler _messageHandler;
 
         public Server(IMessageProvider messageProvider)
         {
-            _messageProvider = messageProvider;
+            _messageHandler = new MessageHandler(messageProvider);
         }
 
         public void Start()
@@ -21,23 +21,19 @@ namespace SuperServer
                 {
                     Thread.Sleep(1000);
 
-                    var msg = _messageProvider.GetNextMessage();
-
-                    //Do stuff
-
-                    LastMessage = msg;
+                    _messageHandler.HandleNextMessage();
                 }
             });
 
             _worker.Start();
         }
 
+        public string LastMessage { get { return _messageHandler.LastMessage; } }
+
         public void Stop()
         {
             _isAlive = false;
             _worker.Join();
         }
-
-        public string LastMessage { get; set; }
     }
 }

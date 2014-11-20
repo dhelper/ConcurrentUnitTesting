@@ -1,0 +1,9 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProceesor.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProceesor.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\FakeItEasy.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProcessing.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProcessing.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\FakeItEasy.xml
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesor.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesor.pdb
