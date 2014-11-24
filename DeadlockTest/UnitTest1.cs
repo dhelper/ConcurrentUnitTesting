@@ -14,6 +14,5 @@ namespace DeadlockTest
 
     public class ClassWithDeadlock
     {
-        public 
     }
 }

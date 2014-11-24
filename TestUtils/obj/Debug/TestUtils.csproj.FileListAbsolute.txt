@@ -1,0 +1,5 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.pdb
