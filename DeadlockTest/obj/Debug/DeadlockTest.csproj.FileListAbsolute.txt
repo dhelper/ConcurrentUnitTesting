@@ -2,3 +2,8 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\Dead
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\DeadlockTest.pdb
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\FakeItEasy.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\TestUtils.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\TestUtils.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\FakeItEasy.xml
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.csprojResolveAssemblyReference.cache

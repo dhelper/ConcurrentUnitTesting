@@ -1,0 +1,7 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\TypeMock.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.pdb

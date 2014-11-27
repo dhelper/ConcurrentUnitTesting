@@ -1,0 +1,5 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\bin\Debug\BusyAssert.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\bin\Debug\BusyAssert.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.pdb

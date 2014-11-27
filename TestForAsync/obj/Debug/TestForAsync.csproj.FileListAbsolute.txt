@@ -1,0 +1,7 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.xml
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.pdb

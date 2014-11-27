@@ -6,16 +6,16 @@ namespace TestUtils
 {
     public class TestBase
     {
-        private Exception _exceptionFromOtherThread;
+        private Exception _exceptionFromThread;
 
         [TestCleanup]
         public void CheckForException()
         {
-            if (_exceptionFromOtherThread != null)
+            if (_exceptionFromThread != null)
             {
-                var exceptionFound = _exceptionFromOtherThread;
+                var exceptionFound = _exceptionFromThread;
 
-                _exceptionFromOtherThread = null;
+                _exceptionFromThread = null;
 
                 Assert.Fail(exceptionFound.ToString());
             }
@@ -31,7 +31,7 @@ namespace TestUtils
                 }
                 catch (Exception exc)
                 {
-                    _exceptionFromOtherThread = exc;
+                    _exceptionFromThread = exc;
                 }
             });
 

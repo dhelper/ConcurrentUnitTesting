@@ -1,0 +1,5 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.pdb
