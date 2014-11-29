@@ -1,0 +1,7 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\FakeWithIsolator.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\FakeWithIsolator.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\TypeMock.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithTimerIsolator.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.pdb

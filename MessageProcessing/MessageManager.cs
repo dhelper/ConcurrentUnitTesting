@@ -18,27 +18,7 @@ namespace MessageProcessing
         {
             // Here Be Code!
 
-            _messeageQueue.Enque(message);
-        }
-    }
-
-    public class MessageClient
-    {
-        private readonly IAsyncMesseageQueue _messeageQueue;
-
-        public MessageClient(IAsyncMesseageQueue messeageQueue)
-        {
-            _messeageQueue = messeageQueue;
-            _messeageQueue.OnNewMessage += HandleNewMessage;
-        }
-
-        public string LastMessage { get; set; }
-
-        private void HandleNewMessage(object sender, MessageEventArgs e)
-        {
-            // Here Be Code!
-
-            LastMessage = e.Message;
+            _messeageQueue.Enqueue(message);
         }
     }
 }

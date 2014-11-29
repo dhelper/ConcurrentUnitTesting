@@ -1,9 +1,7 @@
-﻿using System;
-using FakeItEasy;
-using MessageProcessing;
+﻿using MessageProcessing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MessageProceesor
+namespace MessageProceesorTests
 {
     [TestClass]
     public class MessageProcessingTests
@@ -11,23 +9,23 @@ namespace MessageProceesor
         [TestMethod]
         public void AddNewMessageProcessedMessageInQueue()
         {
-            var fakeMessageQueue = A.Fake<IAsyncMesseageQueue>();
+            var messeageQueue = new AsyncMesseageQueue();
 
-            var manager = new MessageManager(fakeMessageQueue);
+            var manager = new MessageManager(messeageQueue);
 
             manager.CreateNewMessage("a new message");
 
-            A.CallTo(() => fakeMessageQueue.Enque("a new message")).MustHaveHappened();
+           Assert.AreEqual(1, messeageQueue.Count);
         }
 
         [TestMethod]
         public void QueueRaisedNewMessageEventClientProcessEvent()
         {
-            var fakeMessageQueue = A.Fake<IAsyncMesseageQueue>();
+            var messeageQueue = new AsyncMesseageQueue();
 
-            var client = new MessageClient(fakeMessageQueue);
+            var client = new MessageClient(messeageQueue);
 
-            fakeMessageQueue.OnNewMessage += Raise.With(new MessageEventArgs("A new message"));
+            client.HandleNewMessage(null, new MessageEventArgs("A new message"));
 
             Assert.AreEqual("A new message", client.LastMessage);
         }

@@ -1,0 +1,7 @@
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\bin\Debug\SignaledPattern.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\bin\Debug\SignaledPattern.pdb
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\bin\Debug\FakeItEasy.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\bin\Debug\FakeItEasy.xml
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.csprojResolveAssemblyReference.cache
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.dll
+C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.pdb

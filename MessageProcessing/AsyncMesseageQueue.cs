@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
 
 namespace MessageProcessing
 {
@@ -10,7 +7,26 @@ namespace MessageProcessing
     {
         event EventHandler<MessageEventArgs> OnNewMessage;
 
-        void Enque(string message);
+        void Enqueue(string message);
+    }
+
+    public class AsyncMesseageQueue : IAsyncMesseageQueue
+    {
+        private readonly Queue<string> _innerQueue = new Queue<string>();
+
+        public event EventHandler<MessageEventArgs> OnNewMessage;
+        public void Enqueue(string message)
+        {
+            _innerQueue.Enqueue(message);
+        }
+
+        public int Count
+        {
+            get { return _innerQueue.Count; }
+        }
+
+        // still missing message passing logic but won't be needed in demo
+        // If you're reading this -- good for you
     }
 
     public class MessageEventArgs : EventArgs

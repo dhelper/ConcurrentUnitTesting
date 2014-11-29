@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AsyncMesseageQueue.cs" />
+    <Compile Include="MessageClient.cs" />
     <Compile Include="MessageManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

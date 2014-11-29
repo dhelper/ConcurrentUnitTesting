@@ -19,9 +19,12 @@ namespace SignaledPattern
 
             var cut = new ClassWithAsyncOperation(fakeOtherClass);
 
-            cut.RunAsync(2, 3);
+            cut.DiffcultCalcAsync(2, 3);
 
-            Assert.IsTrue(waitHandle.Wait(10000), "OtherClass.DoSomething was never called");
+            var wasCalled = waitHandle.Wait(10000);
+
+            Assert.IsTrue(wasCalled, "OtherClass.DoSomething was never called");
+            Assert.AreEqual(5, cut.Result);
         }
     }
 
@@ -34,15 +37,17 @@ namespace SignaledPattern
             _otherClass = otherClass;
         }
 
-        public void RunAsync(int a, int b)
+        public void DiffcultCalcAsync(int a, int b)
         {
             Task.Run(() =>
             {
-                var sum = a + b;
+                Result = a + b;
 
-                _otherClass.DoSomething(sum);
+                _otherClass.DoSomething(Result);
             });
         }
+
+        public int Result { get; private set; }
     }
 
     public interface IOtherClass
