@@ -55,3 +55,10 @@ SuperServer/obj/Debug/SuperServer.pdb
 SuperServer/obj/Debug/SuperServer.csproj.FileListAbsolute.txt
 SuperServer/bin/Debug/SuperServer.dll
 SuperServer/bin/Debug/SuperServer.pdb
+CustomTaskSchduler/bin/Debug/CustomTaskSchduler.dll
+CustomTaskSchduler/bin/Debug/CustomTaskSchduler.dll
+CustomTaskSchduler/bin/Debug/CustomTaskSchduler.pdb
+CustomTaskSchduler/obj/Debug/CustomTaskSchduler.dll
+CustomTaskSchduler/obj/Debug/CustomTaskSchduler.pdb
+UnitTestingPatternsForConcurrentCode.jmconfig
+UnitTestingPatternsForConcurrentCode.v12.suo

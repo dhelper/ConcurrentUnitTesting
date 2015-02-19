@@ -12,6 +12,8 @@ namespace CustomTaskSchduler
         public void BadTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();
+            A.CallTo(() => fakeMessageBus.GetNextMessage()).Returns(null);
+
             bool wasCalled = false;
 
             var client = new ClassToTest(fakeMessageBus);
@@ -19,13 +21,14 @@ namespace CustomTaskSchduler
 
             client.Start();
 
-            Assert.IsTrue(wasCalled);
+            Assert.IsFalse(wasCalled);
         }
 
         [TestMethod]
         public void WorseTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();
+            A.CallTo(() => fakeMessageBus.GetNextMessage()).Returns(null);
             bool wasCalled = false;
 
             var client = new ClassToTest(fakeMessageBus);
@@ -35,14 +38,17 @@ namespace CustomTaskSchduler
             Thread.Sleep(10000);
 
 
-            Assert.IsTrue(wasCalled);
+            Assert.IsFalse(wasCalled);
         }
 
         [TestMethod]
         public void GoodTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();
+            A.CallTo(() => fakeMessageBus.GetNextMessage()).Returns(null);
+
             bool wasCalled = false;
+            var currentThreadTaskScheduler = new CurrentThreadTaskScheduler();
 
             Task.Factory.StartNew(() =>
             {
@@ -52,9 +58,23 @@ namespace CustomTaskSchduler
                 client.Start();
             }, CancellationToken.None,
             TaskCreationOptions.None,
-            new CurrentThreadTaskScheduler());
+            currentThreadTaskScheduler);
 
-            Assert.IsTrue(wasCalled);
+            Assert.IsFalse(wasCalled);
         }
     }
 }
+
+#region Backup
+/*var currentThreadTaskScheduler = new CurrentThreadTaskScheduler();
+
+Task.Factory.StartNew(() =>
+{
+    var client = new ClassToTest(fakeMessageBus);
+    client.OnNewMessage += (sender, args) => wasCalled = true;
+
+    client.Start();
+}, CancellationToken.None,
+TaskCreationOptions.None,
+currentThreadTaskScheduler);*/
+#endregion

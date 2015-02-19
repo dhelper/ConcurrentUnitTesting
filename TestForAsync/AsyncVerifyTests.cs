@@ -14,12 +14,10 @@ namespace TestForAsync
         public void CallDoneInOtherThreadWithOneCall()
         {
             var waitHandle = new ManualResetEvent(false);
-            var counting = new CountdownEvent(1);
             var fakeClient = A.Fake<IClient>();
             A.CallTo(() => fakeClient.Send(A<Message>._)).Invokes(() =>
             {
                 waitHandle.WaitOne();
-                counting.Signal();
             });
 
             var mailer = new Mailer(fakeClient);
@@ -27,9 +25,7 @@ namespace TestForAsync
             mailer.SendEmail("address1", "");
             waitHandle.Set();
 
-            var eventsReached = counting.Wait(5000);
-
-            Assert.IsTrue(eventsReached, "One or more of the operation didnt happen");
+            // Assert
         }
 
         [TestMethod, Timeout(10000)]

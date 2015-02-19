@@ -23,10 +23,12 @@ namespace CustomTaskSchduler
                 var message = _messageBus.GetNextMessage();
 
                 // Do work
-
-                if (OnNewMessage != null)
+                if (message != null)
                 {
-                    OnNewMessage(this, EventArgs.Empty);
+                    if (OnNewMessage != null)
+                    {
+                        OnNewMessage(this, EventArgs.Empty);
+                    }
                 }
 
             }, _cancellationTokenSource.Token, 
