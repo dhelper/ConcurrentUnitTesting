@@ -5,3 +5,10 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\Fake
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.pdb

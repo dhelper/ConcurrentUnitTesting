@@ -3,3 +3,8 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUti
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestUtils\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.pdb

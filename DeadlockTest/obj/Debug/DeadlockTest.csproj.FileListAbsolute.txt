@@ -7,3 +7,13 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\Test
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\TestUtils.pdb
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\bin\Debug\FakeItEasy.xml
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.csprojResolveAssemblyReference.cache
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\DeadlockTest.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\DeadlockTest.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\FakeItEasy.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\TestUtils.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\TestUtils.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\bin\Debug\FakeItEasy.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.csprojResolveAssemblyReference.cache
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\DeadlockTest\obj\Debug\DeadlockTest.pdb

@@ -5,3 +5,10 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debu
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\CustomTaskSchduler.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\CustomTaskSchduler.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\FakeItEasy.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\FakeItEasy.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.pdb

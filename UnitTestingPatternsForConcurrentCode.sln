@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Smells", "Smells", "{56E248A0-60F1-400D-911F-5827AFE0029F}"
 EndProject
@@ -54,6 +54,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignaledPattern", "SignaledPattern\SignaledPattern.csproj", "{F1113132-5C59-4132-BD76-6FEDE16FEC73}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyAssert", "BusyAssert\BusyAssert.csproj", "{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyAssertNUnit", "BusyAssertNUnit\BusyAssertNUnit.csproj", "{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,5 +156,6 @@ Global
 		{F1FE3C3D-A83F-4586-AB8F-6DEA2954697E} = {C7A5C315-D31B-4E1B-9D59-03D7D129C57A}
 		{F1113132-5C59-4132-BD76-6FEDE16FEC73} = {F1FE3C3D-A83F-4586-AB8F-6DEA2954697E}
 		{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97} = {F1FE3C3D-A83F-4586-AB8F-6DEA2954697E}
+		{FBACB0AE-6A2A-4EC3-920D-90B53CE6596A} = {F1FE3C3D-A83F-4586-AB8F-6DEA2954697E}
 	EndGlobalSection
 EndGlobal

@@ -25,3 +25,14 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\SuprtServerTests.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\SuprtServerTests.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\FakeItEasy.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\SuperServer.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\SuperServer.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\FakeItEasy.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.csprojResolveAssemblyReference.cache
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SuprtServerTests\obj\Debug\SuprtServerTests.pdb
