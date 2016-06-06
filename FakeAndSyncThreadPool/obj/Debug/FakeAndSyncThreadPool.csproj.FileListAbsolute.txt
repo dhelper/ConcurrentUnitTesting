@@ -5,9 +5,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\D
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.pdb

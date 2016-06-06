@@ -3,8 +3,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\Set
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.pdb

@@ -3,10 +3,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\bin\Debug\BusyAs
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\bin\Debug\BusyAssert.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\bin\Debug\BusyAssert.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\BusyAssert\obj\Debug\BusyAssert.pdb

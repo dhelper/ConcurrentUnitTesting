@@ -7,13 +7,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProceesorTests.pdb
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProceesorTests.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProceesorTests.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\FakeItEasy.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProcessing.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\MessageProcessing.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\bin\Debug\FakeItEasy.xml
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProceesor\obj\Debug\MessageProceesorTests.pdb

@@ -5,9 +5,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithTimerIsolator.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\FakeWithIsolator.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\FakeWithIsolator.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithTimerIsolator.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\FakeWithIsolator\obj\Debug\FakeWithIsolator.pdb

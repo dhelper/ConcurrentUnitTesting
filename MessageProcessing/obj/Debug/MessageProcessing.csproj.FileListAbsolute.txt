@@ -3,8 +3,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProcessing\bin\Debug
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProcessing\bin\Debug\MessageProcessing.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProcessing\bin\Debug\MessageProcessing.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\MessageProcessing\obj\Debug\MessageProcessing.pdb

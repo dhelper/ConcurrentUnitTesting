@@ -5,12 +5,3 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\bin\Debug\F
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\SignaledPattern.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\SignaledPattern.pdb
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\FakeItEasy.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\FakeItEasy.xml
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.csprojResolveAssemblyReference.cache
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.dll
-C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\SignaledPattern\obj\Debug\SignaledPattern.pdb
