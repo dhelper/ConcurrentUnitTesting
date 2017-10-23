@@ -62,3 +62,16 @@ SuperServer/bin/Debug/SuperServer.pdb
 /BusyAssertNUnit/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 /BusyAssertNUnit/obj/Debug/BusyAssertNUnit.csproj.FileListAbsolute.txt
 /packages/NUnit.3.2.1
+/.vs/UnitTestingPatternsForConcurrentCode/v15/Server/sqlite3/db.lock
+/.vs/UnitTestingPatternsForConcurrentCode/v15/Server/sqlite3/storage.ide
+/.vs/UnitTestingPatternsForConcurrentCode/v15/Server/sqlite3/storage.ide-wal
+/.vs/UnitTestingPatternsForConcurrentCode/v15/Server/sqlite3/storage.ide-shm
+/AwaitInTest/bin/Debug
+/AwaitInTest/obj/Debug
+/BusyAssert/obj/Debug
+/BusyAssertNUnit/obj/Debug
+/FakeWithIsolator/obj/Debug
+/packages
+/DeadlockTest/obj/Debug
+/FakeAndSyncThreadPool/obj/Debug
+*.CopyComplete

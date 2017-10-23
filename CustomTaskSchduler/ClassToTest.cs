@@ -24,11 +24,7 @@ namespace CustomTaskSchduler
 
                 // Do work
 
-                if (OnNewMessage != null)
-                {
-                    OnNewMessage(this, EventArgs.Empty);
-                }
-
+                OnNewMessage?.Invoke(this, EventArgs.Empty);
             }, _cancellationTokenSource.Token, 
                 TaskCreationOptions.None, 
                 TaskScheduler.Current);

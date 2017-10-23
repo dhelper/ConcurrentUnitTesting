@@ -1,6 +1,4 @@
-﻿using System;
-using System.Runtime.InteropServices;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using FakeItEasy;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -38,13 +36,15 @@ namespace TestForAsync
             var waitHandle = new ManualResetEvent(false);
             var counting = new CountdownEvent(2);
             var fakeClient = A.Fake<IClient>();
-            A.CallTo(() => fakeClient.Send(A<Message>.That.Matches(message => message.To == "address1"))).Invokes(() =>
+            A.CallTo(() => fakeClient.Send(A<Message>.That.Matches(message => message.To == "address1")))
+                .Invokes(() =>
             {
                 waitHandle.WaitOne();
                 counting.Signal();
             });
 
-            A.CallTo(() => fakeClient.Send(A<Message>.That.Matches(message => message.To == "address2"))).Invokes(() => counting.Signal());
+            A.CallTo(() => fakeClient.Send(A<Message>.That.Matches(message => message.To == "address2")))
+                .Invokes(() => counting.Signal());
 
             var mailer = new Mailer(fakeClient);
 

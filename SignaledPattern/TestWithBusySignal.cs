@@ -15,7 +15,8 @@ namespace SignaledPattern
             var waitHandle = new ManualResetEventSlim(false);
 
             var fakeOtherClass = A.Fake<IOtherClass>();
-            A.CallTo(() => fakeOtherClass.DoSomething(A<int>._)).Invokes(waitHandle.Set);
+            A.CallTo(() => fakeOtherClass.DoSomething(A<int>._))
+                .Invokes(waitHandle.Set);
 
             var cut = new ClassWithAsyncOperation(fakeOtherClass);
 
