@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace AwaitInTest
 {
     [TestClass]
-    public class UnitTest1
+    public class AwaitingTests
     {
         [TestMethod]
         public async void ThisTestWouldNotFound()

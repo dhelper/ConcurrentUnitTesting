@@ -7,3 +7,14 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\bin\Debug\FakeI
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\SuperServerTests.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\ServerTests.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\ServerTests.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\FakeItEasy.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\SuperServerFixed.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\SuperServerFixed.pdb
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\bin\Debug\FakeItEasy.xml
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\obj\Debug\SuperServerTests.csprojResolveAssemblyReference.cache
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\obj\Debug\SuperServerTests.csproj.CoreCompileInputs.cache
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.dll
+C:\Users\drorh\Source\Repos\ConcurrentUnitTesting\ServerTests\obj\Debug\ServerTests.pdb
