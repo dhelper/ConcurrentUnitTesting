@@ -9,21 +9,21 @@ namespace MessageProceesorTests
         [TestMethod]
         public void AddNewMessageProcessedMessageInQueue()
         {
-            var messeageQueue = new AsyncMesseageQueue();
+            var messageQueue = new AsyncMesseageQueue();
 
-            var manager = new MessageManager(messeageQueue);
+            var manager = new MessageManager(messageQueue);
 
             manager.CreateNewMessage("a new message");
 
-           Assert.AreEqual(1, messeageQueue.Count);
+           Assert.AreEqual(1, messageQueue.Count);
         }
 
         [TestMethod]
         public void QueueRaisedNewMessageEventClientProcessEvent()
         {
-            var messeageQueue = new AsyncMesseageQueue();
+            var messageQueue = new AsyncMesseageQueue();
 
-            var client = new MessageClient(messeageQueue);
+            var client = new MessageClient(messageQueue);
 
             client.HandleNewMessage(null, new MessageEventArgs("A new message"));
 
