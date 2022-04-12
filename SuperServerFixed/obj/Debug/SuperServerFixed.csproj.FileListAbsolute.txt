@@ -3,3 +3,9 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\bin\Debug\
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\bin\Debug\SuperServerFixed.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\bin\Debug\SuperServerFixed.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.csproj.AssemblyReference.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SuperServerFixed\obj\Debug\SuperServerFixed.csproj.CoreCompileInputs.cache

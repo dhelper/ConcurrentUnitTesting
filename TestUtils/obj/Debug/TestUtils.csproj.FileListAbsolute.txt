@@ -3,3 +3,11 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUti
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\bin\Debug\TestUtils.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\bin\Debug\nunit.framework.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\bin\Debug\nunit.framework.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.csproj.CoreCompileInputs.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestUtils\obj\Debug\TestUtils.csproj.CopyComplete

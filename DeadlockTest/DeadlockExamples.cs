@@ -1,15 +1,14 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using TestUtils;
 
 namespace DeadlockTest
 {
-    [TestClass]
+    [TestFixture]
     public class DeadlockExamples : TestBase
     {
-        [TestMethod, Timeout(5000)]
+        [Test, Timeout(30000)]
         public void CheckForDeadlock()
         {
             var fakeDependency1 = A.Fake<IDependency>();

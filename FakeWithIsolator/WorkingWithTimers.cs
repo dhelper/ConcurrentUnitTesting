@@ -1,14 +1,13 @@
-﻿using System;
-using System.Timers;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Timers;
+using NUnit.Framework;
 using TypeMock.ArrangeActAssert;
 
 namespace FakeWithIsolator
 {
-    [TestClass]
+    [TestFixture]
     public class WorkingWithTimers
     {
-        [TestMethod, Isolated]
+        [Test, Isolated]
         public void ThisIsAGoodTest()
         {
             var fakeTimer = Isolate.Fake.Instance<Timer>();

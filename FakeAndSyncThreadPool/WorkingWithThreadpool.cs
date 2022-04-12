@@ -1,14 +1,13 @@
-﻿using System;
-using System.Threading;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Threading;
+using NUnit.Framework;
 using TypeMock.ArrangeActAssert;
 
 namespace FakeAndSyncThreadPool
 {
-    [TestClass]
+    [TestFixture]
     public class WorkingWithThreadpool
     {
-        [TestMethod, Isolated]
+        [Test, Isolated]
         public void UsingWrapperTest()
         {
             Isolate.WhenCalled(() => ThreadPoolWrapper.QueueUserWorkItem(null))

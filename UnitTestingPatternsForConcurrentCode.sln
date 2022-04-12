@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Smells", "Smells", "{56E248
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperServer", "SuperServer\SuperServer.csproj", "{8452C2A4-5BE6-407D-8EB8-6E5428DE0E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuprtServerTests", "SuprtServerTests\SuprtServerTests.csproj", "{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperServerBadTests", "SuperServerBadTests\SuperServerBadTests.csproj", "{3CF72AC7-E00D-468B-B60C-ACED103EBEDB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{C7A5C315-D31B-4E1B-9D59-03D7D129C57A}"
 EndProject
@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Humble", "1. Humble", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. TestBefore TestAfer", "2. TestBefore TestAfer", "{FA1BCC06-0A2E-4D34-B8E8-958FE5C0EE48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProceesorTests", "MessageProceesor\MessageProceesorTests.csproj", "{166BADD8-D417-4C48-B8E2-9CA0927040B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessorTests", "MessageProceesor\MessageProcessorTests.csproj", "{166BADD8-D417-4C48-B8E2-9CA0927040B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessing", "MessageProcessing\MessageProcessing.csproj", "{DB6E1984-3ECB-46CC-B1D6-92D215A5ADEB}"
 EndProject

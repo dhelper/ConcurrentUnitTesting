@@ -1,15 +1,14 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Timers;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using Timer = System.Timers.Timer;
 
 namespace SetTimerToOne
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void ThisIsABadTest()
         {
             var timer = new Timer(1);

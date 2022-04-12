@@ -5,3 +5,14 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debu
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\CustomTaskSchduler.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\CustomTaskSchduler.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\FakeItEasy.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\nunit.framework.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\FakeItEasy.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\bin\Debug\nunit.framework.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.csproj.AssemblyReference.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.csproj.CoreCompileInputs.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\CustomTaskSchduler\obj\Debug\CustomTaskSchduler.csproj.CopyComplete

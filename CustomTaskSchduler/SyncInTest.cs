@@ -1,14 +1,14 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace CustomTaskSchduler
 {
-    [TestClass]
+    [TestFixture]
     public class SyncInTest
     {
-        [TestMethod]
+        [Test]
         public void BadTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();
@@ -22,7 +22,7 @@ namespace CustomTaskSchduler
             Assert.IsTrue(wasCalled);
         }
 
-        [TestMethod]
+        [Test]
         public void WorseTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();
@@ -38,7 +38,7 @@ namespace CustomTaskSchduler
             Assert.IsTrue(wasCalled);
         }
 
-        [TestMethod]
+        [Test]
         public void GoodTest()
         {
             var fakeMessageBus = A.Fake<IMessageBus>();

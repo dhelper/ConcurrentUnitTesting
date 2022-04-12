@@ -1,15 +1,14 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace SignaledPattern
 {
-    [TestClass]
+    [TestFixture]
     public class TestWithBusySignal
     {
-        [TestMethod]
+        [Test]
         public void TestUsingSignal()
         {
             var waitHandle = new ManualResetEventSlim(false);

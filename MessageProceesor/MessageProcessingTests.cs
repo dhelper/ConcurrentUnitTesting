@@ -1,12 +1,12 @@
 ﻿using MessageProcessing;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
-namespace MessageProceesorTests
+namespace MessageProcessorTests
 {
-    [TestClass]
+    [TestFixture]
     public class MessageProcessingTests
     {
-        [TestMethod]
+        [Test]
         public void AddNewMessageProcessedMessageInQueue()
         {
             var messageQueue = new AsyncMesseageQueue();
@@ -18,7 +18,7 @@ namespace MessageProceesorTests
            Assert.AreEqual(1, messageQueue.Count);
         }
 
-        [TestMethod]
+        [Test]
         public void QueueRaisedNewMessageEventClientProcessEvent()
         {
             var messageQueue = new AsyncMesseageQueue();

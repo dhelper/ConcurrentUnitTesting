@@ -5,3 +5,14 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\bin\Debug\Fake
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\TestForAsync.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\nunit.framework.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\FakeItEasy.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\bin\Debug\nunit.framework.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csproj.AssemblyReference.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csproj.CoreCompileInputs.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\TestForAsync\obj\Debug\TestForAsync.csproj.CopyComplete

@@ -3,3 +3,12 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\Set
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\SetTimerToOne.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\nunit.framework.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\bin\Debug\nunit.framework.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csproj.AssemblyReference.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csproj.CoreCompileInputs.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\SetTimerToOne\obj\Debug\SetTimerToOne.csproj.CopyComplete

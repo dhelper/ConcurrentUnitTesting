@@ -1,16 +1,15 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using SuperServer;
 
-namespace SuprtServerTests
+namespace SuperServerBadTests
 {
-    [TestClass]
+    [TestFixture]
     public class ServerTests
     {
-        [TestMethod]
+        [Test]
         public void ArrivingMessagePublishedTest()
         {
             var fakeMessageProvider = A.Fake<IMessageProvider>();
@@ -24,7 +23,7 @@ namespace SuprtServerTests
             Assert.AreEqual("Hello!", server.LastMessage);
         }
         
-        [TestMethod]
+        [Test]
         public async Task ArrivingMessagePublishedTest_Take2()
         {
             var fakeMessageProvider = A.Fake<IMessageProvider>();

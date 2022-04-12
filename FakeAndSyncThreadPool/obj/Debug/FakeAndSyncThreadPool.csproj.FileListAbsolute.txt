@@ -5,3 +5,12 @@ C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\D
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csprojResolveAssemblyReference.cache
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.dll
 C:\Users\Dror\Documents\GitHub\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\FakeAndSyncThreadPool.pdb
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\nunit.framework.dll
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\bin\Debug\nunit.framework.xml
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csproj.AssemblyReference.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\dhelper\RiderProjects\ConcurrentUnitTesting\FakeAndSyncThreadPool\obj\Debug\FakeAndSyncThreadPool.csproj.CopyComplete

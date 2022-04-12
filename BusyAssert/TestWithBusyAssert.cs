@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace BusyAssert
 {
-    [TestClass]
+    [TestFixture]
     public class TestWithBusyAssert
     {
-        [TestMethod]
+        [Test]
         public void DifficultCalculationTest()
         {
             var cut = new ClassWithAsyncOperation();

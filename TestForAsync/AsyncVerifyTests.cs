@@ -1,14 +1,14 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace TestForAsync
 {
-    [TestClass]
+    [TestFixture]
     public class AsyncVerifyTests
     {
-        [TestMethod, Timeout(10000)]
+        [Test, Timeout(10000)]
         public void CallDoneInOtherThreadWithOneCall()
         {
             var waitHandle = new ManualResetEvent(false);
@@ -30,7 +30,7 @@ namespace TestForAsync
             Assert.IsTrue(eventsReached, "One or more of the operation didnt happen");
         }
 
-        [TestMethod, Timeout(10000)]
+        [Test, Timeout(10000)]
         public void CallDoneInOtherThreadWithTwoCalls()
         {
             var waitHandle = new ManualResetEvent(false);

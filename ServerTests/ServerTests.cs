@@ -1,14 +1,13 @@
-﻿using System.Threading;
-using FakeItEasy;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using FakeItEasy;
+using NUnit.Framework;
 using SuperServerFixed;
 
 namespace ServerTests
 {
-    [TestClass]
+    [TestFixture]
     public class ServerTests
     {
-        [TestMethod]
+        [Test]
         public void ArrivingMessagePublishedTest()
         {
             var fakeMessageProvider = A.Fake<IMessageProvider>();

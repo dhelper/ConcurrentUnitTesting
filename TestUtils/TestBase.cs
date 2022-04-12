@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace TestUtils
 {
@@ -8,7 +8,7 @@ namespace TestUtils
     {
         private Exception _exceptionFromThread;
 
-        [TestCleanup]
+        [TearDown]
         public void CheckForException()
         {
             if (_exceptionFromThread != null)
