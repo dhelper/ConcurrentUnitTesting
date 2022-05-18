@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyAssertNUnit", "BusyAsse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitInTest", "AwaitInTest\AwaitInTest.csproj", "{AC48D4DA-D20D-4AAF-A195-2032D9044A3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeWithTimerWrapper", "FakeWithTimerWrapper\FakeWithTimerWrapper.csproj", "{CDCD8411-D896-428E-9330-3AB6F820FEE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{AC48D4DA-D20D-4AAF-A195-2032D9044A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC48D4DA-D20D-4AAF-A195-2032D9044A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC48D4DA-D20D-4AAF-A195-2032D9044A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCD8411-D896-428E-9330-3AB6F820FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCD8411-D896-428E-9330-3AB6F820FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCD8411-D896-428E-9330-3AB6F820FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCD8411-D896-428E-9330-3AB6F820FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -164,6 +170,7 @@ Global
 		{3ECEC078-2061-45C2-9AAD-76BBBF7DCD97} = {F1FE3C3D-A83F-4586-AB8F-6DEA2954697E}
 		{C7056501-4B93-47AF-9AD0-AAD02C193EA1} = {F1FE3C3D-A83F-4586-AB8F-6DEA2954697E}
 		{AC48D4DA-D20D-4AAF-A195-2032D9044A3B} = {DE99A00A-B58B-4A18-8A8A-4B9CBC70CC1B}
+		{CDCD8411-D896-428E-9330-3AB6F820FEE8} = {7CE26F56-1022-456A-82E9-E6DFA61C1172}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {49138244-DB71-46E8-BA03-CB678D6C40A8}
